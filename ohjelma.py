@@ -1,0 +1,2 @@
+text="YellowWorld"
+print(text)
